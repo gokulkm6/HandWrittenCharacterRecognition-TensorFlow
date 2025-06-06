@@ -1,0 +1,1 @@
+While doing the project, you need to add a project with its own image data folder with all the images present in the dataset so that you can have efficient output and a good model.
