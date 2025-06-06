@@ -79,7 +79,7 @@ Sequential([
 | Language       | Python 3.8+                              |
 | Framework      | TensorFlow + Keras                       |
 | Data Handling  | Pandas, NumPy                            |
-| Image Tools    | OpenCV, Pillow (PIL)                     |
+| Image Tools    | OpenCV                                   |
 | Preprocessing  | Resize → Normalize → Encode Labels       |
 | Model Type     | CNN with Dropout regularization          |
 | Evaluation     | Accuracy, Loss (CrossEntropy)            |
